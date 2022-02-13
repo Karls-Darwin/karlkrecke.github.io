@@ -1,2 +1,3 @@
-# karlkrecke.github.io
+# karlkrecke.com
+
 personal website
